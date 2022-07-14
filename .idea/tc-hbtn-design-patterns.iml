@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x01/salario" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x02/impressao" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x02/lanchonete" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x03/midia_player" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
