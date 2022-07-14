@@ -8,4 +8,5 @@ public class VideoMediaPlayer implements AdvancedMediaPlayer {
     public void reproduzirMP4(String nomeArquivo) {
         System.out.print("Reproduzindo MP4: " + nomeArquivo);
     }
+
 }
