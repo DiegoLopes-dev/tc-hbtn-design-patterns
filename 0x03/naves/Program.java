@@ -18,3 +18,4 @@ public class Program {
         NaveEspacial naveCompleta = new CanhaoExtraDecorator(new ArmaduraDecorator(new NanoBotsDecorator(new LaserDecorator(new NaveEspacial(50, 50)))));
         System.out.println(naveCompleta);
     }
+}
